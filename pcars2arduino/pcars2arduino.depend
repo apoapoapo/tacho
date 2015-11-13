@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1385320478 source:c:\arduino\pcars2arduino\main.cpp
+	<iostream>
+
+1442787337 source:c:\arduino\pcars2arduino\sms_memmapsample.cpp
+	<windows.h>
+	"sharedmemory.h"
+	<string>
+	<stdio.h>
+	<conio.h>
+	"serial.h"
+	<sys/time.h>
+	<math.h>
+
+1384848743 c:\arduino\pcars2arduino\sharedmemory.h
+
+1441661669 c:\arduino\pcars2arduino\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1441661718 source:c:\arduino\pcars2arduino\serial.cpp
+	"serial.h"
+
+1441658118 source:d:\arduino\pcars2arduino\serial.cpp
+	"serial.h"
+
+1441658069 d:\arduino\pcars2arduino\serial.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1446911422 source:d:\arduino\pcars2arduino\sms_memmapsample.cpp
+	<windows.h>
+	"sharedmemory.h"
+	<string>
+	<stdio.h>
+	<conio.h>
+	"serial.h"
+	<sys/time.h>
+	<math.h>
+
+1384845143 d:\arduino\pcars2arduino\sharedmemory.h
+
